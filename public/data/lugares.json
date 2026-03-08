@@ -2,19 +2,20 @@
   "parques": [
     {
       "nome": "Parque Centenário",
-      "endereco": "Avenida Diaz Vélez 4800, Caballito",
+      "endereco": "Av. Díaz Vélez 4000, C1200AAJ CABA",
       "distancia": {
         "a_pe": 15,
         "taxi": 8,
         "onibus": 12
       },
-      "custo_medio": "Gratuito",
-      "classificacao_tripadvisor": 4.0,
-      "descricao": "Um dos parques mais bonitos de Buenos Aires, com lago, jardins e áreas para esportes. Ideal para piqueniques e caminhadas.",
+      "custo_medio": "Grátis",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "O Parque Centenário é um dos maiores parques urbanos de Buenos Aires, ideal para piqueniques e atividades recreativas.",
       "fotos": [
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop"
+        "images/parques/parque_centenario/parque_centenario_1.jpg",
+        "images/parques/parque_centenario/parque_centenario_2.jpg",
+        "images/parques/parque_centenario/parque_centenario_3.jpg",
+        "images/parques/parque_centenario/parque_centenario_4.jpg"
       ]
     },
     {
@@ -29,8 +30,11 @@
       "classificacao_tripadvisor": 3.6,
       "descricao": "Parque histórico com vistas para o Rio da Prata. Abriga o Museu Histórico Nacional e tem um charmoso café.",
       "fotos": [
-        "https://images.unsplash.com/photo-1515238152791-8216bfdf89a7?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop"
+        "images/parques/parque_lezama/parque_lezama_1.jpg",
+        "images/parques/parque_lezama/parque_lezama_2.jpg",
+        "images/parques/parque_lezama/parque_lezama_3.jpg",
+        "images/parques/parque_lezama/parque_lezama_4.webp",
+        "images/parques/parque_lezama/parque_lezama_5.jpg"
       ]
     },
     {
@@ -45,8 +49,11 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Um dos parques mais históricos e elegantes da cidade. Tem barrancos gramados perfeitos para descansar, árvores centenárias e está cercado por palácios aristocráticos. Visite junto com a Basílica do Santíssimo Sacramento.",
       "fotos": [
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop"
+        "images/parques/plaza_general_san_martin/plaza_san_martin_1.jpg",
+        "images/parques/plaza_general_san_martin/plaza_san_martin_2.jpg",
+        "images/parques/plaza_general_san_martin/plaza_san_martin_3.jpg",
+        "images/parques/plaza_general_san_martin/plaza_san_martin_4.jpg",
+        "images/parques/plaza_general_san_martin/plaza_san_martin_5.jpg"
       ]
     },
     {
@@ -61,12 +68,15 @@
       "classificacao_tripadvisor": 4.3,
       "descricao": "É o coração da Recoleta. Aos finais de semana, acontece aqui a feira de artesanato mais famosa da cidade. Ótimo lugar para ver o movimento e artistas de rua. Procure a Floralis Genérica ao lado.",
       "fotos": [
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop"
+        "images/parques/plaza_francia_y_intendente_alvear/plaza_francia_y_intendente_alvear_1.jpg",
+        "images/parques/plaza_francia_y_intendente_alvear/plaza_francia_y_intendente_alvear_2.jpg",
+        "images/parques/plaza_francia_y_intendente_alvear/plaza_francia_y_intendente_alvear_3.jpg",
+        "images/parques/plaza_francia_y_intendente_alvear/plaza_francia_y_intendente_alvear_4.jpg",
+        "images/parques/plaza_francia_y_intendente_alvear/plaza_francia_y_intendente_alvear_5.jpg"
       ]
     },
     {
-      "nome": "Jardim Japonês",
+      "nome": "Jardin Japonês",
       "endereco": "Av. Casares 2966, C1425 Cdad. Autónoma de Buenos Aires",
       "distancia": {
         "a_pe": 40,
@@ -77,8 +87,11 @@
       "classificacao_tripadvisor": 4.4,
       "descricao": "Um dos maiores jardins japoneses fora do Japão. Extremamente fotogênico, com lagos de carpas, pontes vermelhas e casa de chá.",
       "fotos": [
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop"
+        "images/parques/jardin_japones/jardin_japones_1.jpg",
+        "images/parques/jardin_japones/jardin_japones_2.jpg",
+        "images/parques/jardin_japones/jardin_japones_3.jpg",
+        "images/parques/jardin_japones/jardin_japones_4.webp",
+        "images/parques/jardin_japones/jardin_japones_5.jpg"
       ]
     },
     {
@@ -93,8 +106,11 @@
       "classificacao_tripadvisor": 4.6,
       "descricao": "É o 'Central Park' de Buenos Aires. Inclui o famoso Rosedal com milhares de rosas e um lago onde se pode alugar pedalinhos.",
       "fotos": [
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop"
+        "images/parques/bosques_palermo/bosques_palermo_1.jpg",
+        "images/parques/bosques_palermo/bosques_palermo_2.jpg",
+        "images/parques/bosques_palermo/bosques_palermo_3.jpg",
+        "images/parques/bosques_palermo/bosques_palermo_4.jpg",
+        "images/parques/bosques_palermo/bosques_palermo_5.jpg"
       ]
     },
     {
@@ -109,8 +125,10 @@
       "classificacao_tripadvisor": 4.2,
       "descricao": "O maior espaço verde da cidade, na beira do Rio da Prata. Ideal para caminhadas longas na natureza ou alugar uma bicicleta.",
       "fotos": [
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop"
+        "images/parques/reserva_ecologica/costanera_sur_1.jpg",
+        "images/parques/reserva_ecologica/costanera_sur_2.jpg",
+        "images/parques/reserva_ecologica/costanera_sur_3.jpg",
+        "images/parques/reserva_ecologica/costanera_sur_4.jpg"
       ]
     }
   ],
@@ -127,8 +145,12 @@
       "classificacao_tripadvisor": 4.6,
       "descricao": "Principal museu de arte da Argentina, com acervo que inclui obras de Goya, Rembrandt e artistas argentinos.",
       "fotos": [
-        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+        "images/museus/museu_nacional_belas_artes/mnba_1.jpg",
+        "images/museus/museu_nacional_belas_artes/mnba_2.jpeg",
+        "images/museus/museu_nacional_belas_artes/mnba_3.webp",
+        "images/museus/museu_nacional_belas_artes/mnba_4.webp",
+        "images/museus/museu_nacional_belas_artes/mnba_5.jpg",
+        "images/museus/museu_nacional_belas_artes/mnba_6.jpg"
       ]
     },
     {
@@ -143,8 +165,11 @@
       "classificacao_tripadvisor": 4.0,
       "descricao": "Planetário é um edifício construído em 1960, que funciona como um museu de ciências e tecnologia.",
       "fotos": [
-        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+        "images/museus/planetario/planetario_1.jpg",
+        "images/museus/planetario/planetario_2.webp",
+        "images/museus/planetario/planetario_3.jpg",
+        "images/museus/planetario/planetario_4.jpg",
+        "images/museus/planetario/planetario_5.jpg"
       ]
     },
     {
@@ -159,8 +184,12 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Museu moderno com foco em arte latinoamericana do século XX. Abriga obras de Frida Kahlo, Botero e Diego Rivera.",
       "fotos": [
-        "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+        "images/museus/malba/malba_1.jpg",
+        "images/museus/malba/malba_2.jpg",
+        "images/museus/malba/malba_3.jpg",
+        "images/museus/malba/malba_4.jpg",
+        "images/museus/malba/malba_5.jpg",
+        "images/museus/malba/malba_6.webp"
       ]
     },
     {
@@ -175,8 +204,12 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Catedral metropolitana de Buenos Aires, e a principal igreja da cidade e uma das principais da américa latina. O papa Francisco fazia missas aqui antes de se tornar papa.",
       "fotos": [
-        "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+        "images/museus/catedral_metropolitana/catedral_metropolitana_1.jpg",
+        "images/museus/catedral_metropolitana/catedral_metropolitana_2.webp",
+        "images/museus/catedral_metropolitana/catedral_metropolitana_3.jpg",
+        "images/museus/catedral_metropolitana/catedral_metropolitana_4.jpg",
+        "images/museus/catedral_metropolitana/catedral_metropolitana_5.jpg",
+        "images/museus/catedral_metropolitana/catedral_metropolitana_6.jpg"
       ]
     },
     {
@@ -191,8 +224,10 @@
       "classificacao_tripadvisor": 4.0,
       "descricao": "O Cabildo de Buenos Aires é um edifício histórico, parcialmente vestígio e parcialmente reconstituição de um antigo prédio de mesmo nome, localizado na Praça de Maio, no centro histórico da capital argentina.",
       "fotos": [
-        "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+        "images/museus/cabildo/cabildo_1.jpg",
+        "images/museus/cabildo/cabildo_2.webp",
+        "images/museus/cabildo/cabildo_3.webp",
+        "images/museus/cabildo/cabildo_4.jpg"
       ]
     },
     {
@@ -207,8 +242,12 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Museu com acervo de arte decorativa europeia e latinoamericana, instalado em um palácio histórico.",
       "fotos": [
-        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+        "images/museus/museu_arte_decorativo/mnad_1.jpg",
+        "images/museus/museu_arte_decorativo/mnad_2.jpg",
+        "images/museus/museu_arte_decorativo/mnad_3.jpg",
+        "images/museus/museu_arte_decorativo/mnad_4.jpg",
+        "images/museus/museu_arte_decorativo/mnad_5.jpg",
+        "images/museus/museu_arte_decorativo/mnad_6.jpeg"
       ]
     },
     {
@@ -223,8 +262,13 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Museu dedicado à vida de Eva Perón, com objetos pessoais, vestidos e documentos históricos.",
       "fotos": [
-        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+        "images/museus/museu_evita/museu_evita_1.webp",
+        "images/museus/museu_evita/museu_evita_2.jpg",
+        "images/museus/museu_evita/museu_evita_3.jpg",
+        "images/museus/museu_evita/museu_evita_4.webp",
+        "images/museus/museu_evita/museu_evita_5.jpg",
+        "images/museus/museu_evita/museu_evita_6.webp",
+        "images/museus/museu_evita/museu_evita_7.jpg"
       ]
     },
     {
@@ -239,8 +283,12 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Centro cultural dedicado à arte contemporânea latinoamericana, com exposições temporárias e acervo permanente.",
       "fotos": [
-        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+        "images/museus/proa/proa_1.webp",
+        "images/museus/proa/proa_2.jpg",
+        "images/museus/proa/proa_3.webp",
+        "images/museus/proa/proa_4.webp",
+        "images/museus/proa/proa_5.jpg",
+        "images/museus/proa/proa_6.jpg"
       ]
     },
     {
@@ -255,8 +303,10 @@
       "classificacao_tripadvisor": 4.6,
       "descricao": "Um dos museus privados mais importantes, com obras de Dalí, Rodin e grandes artistas argentinos, em um prédio de vidro incrível.",
       "fotos": [
-        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+        "images/museus/amalia_fortabat/fortabat_1.jpg",
+        "images/museus/amalia_fortabat/fortabat_2.webp",
+        "images/museus/amalia_fortabat/fortabat_3.jpg",
+        "images/museus/amalia_fortabat/fortabat_4.jpg"
       ]
     }
   ],
@@ -273,8 +323,10 @@
       "classificacao_tripadvisor": 4.0,
       "descricao": "Café mais antigo de Buenos Aires (1858), ambiente histórico com shows de tango. Imperdível experiência cultural.",
       "fotos": [
-        "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop"
+        "images/cafes_livrarias_bibliotecas/tortoni/tortoni_1.jpg",
+        "images/cafes_livrarias_bibliotecas/tortoni/tortoni_2.jpg",
+        "images/cafes_livrarias_bibliotecas/tortoni/tortoni_3.jpg",
+        "images/cafes_livrarias_bibliotecas/tortoni/tortoni_4.jpg"
       ]
     },
     {
@@ -289,8 +341,12 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Livraria considerada uma das mais bonitas do mundo, instalada em um antigo teatro. Possui café no palco.",
       "fotos": [
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800&h=600&fit=crop"
+        "images/cafes_livrarias_bibliotecas/grand_splendid/ateneo_1.jpg",
+        "images/cafes_livrarias_bibliotecas/grand_splendid/ateneo_2.webp",
+        "images/cafes_livrarias_bibliotecas/grand_splendid/ateneo_3.webp",
+        "images/cafes_livrarias_bibliotecas/grand_splendid/ateneo_4.jpg",
+        "images/cafes_livrarias_bibliotecas/grand_splendid/ateneo_5.jpg",
+        "images/cafes_livrarias_bibliotecas/grand_splendid/ateneo_6.webp"
       ]
     },
     {
@@ -305,8 +361,9 @@
       "classificacao_tripadvisor": 4.0,
       "descricao": "A Biblioteca Nacional da República Argentina é a biblioteca mais importante da Argentina. Atualmente está localizada no bairro de Buenos Aires chamado Recoleta, em um prédio de estilo bastante brutalista, desde 1992.",
       "fotos": [
-        "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop"
+        "images/cafes_livrarias_bibliotecas/bnmm/bnmm_1.jpg",
+        "images/cafes_livrarias_bibliotecas/bnmm/bnmm_2.webp",
+        "images/cafes_livrarias_bibliotecas/bnmm/bnmm_3.jpg"
       ]
     },
     {
@@ -321,8 +378,11 @@
       "classificacao_tripadvisor": 5.0,
       "descricao": "O Teatro Colón é um teatro de operação e ópera localizado no bairro de Recoleta, em Buenos Aires, Argentina. É um dos maiores teatros de ópera do mundo.",
       "fotos": [
-        "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop"
+        "images/cafes_livrarias_bibliotecas/teatro_colon/colon_1.jpg",
+        "images/cafes_livrarias_bibliotecas/teatro_colon/colon_2.jpg",
+        "images/cafes_livrarias_bibliotecas/teatro_colon/colon_3.jpg",
+        "images/cafes_livrarias_bibliotecas/teatro_colon/colon_4.jpg",
+        "images/cafes_livrarias_bibliotecas/teatro_colon/colon_5.jpg"
       ]
     }
   ],
@@ -339,8 +399,9 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Famoso restaurante de carne argentina, conhecido pelos cortes premium e acompanhamentos generosos. Reserva essencial.",
       "fotos": [
-        "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop"
+        "images/restaurantes/la_cabrera/la-cabrera_1.webp",
+        "images/restaurantes/la_cabrera/la-cabrera_2.webp",
+        "images/restaurantes/la_cabrera/la-cabrera_3.jpg"
       ]
     },
     {
@@ -355,8 +416,9 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Tradicional pizzaria portenha desde 1932. Famosa pela pizza a la piedra e ambiente autêntico.",
       "fotos": [
-        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=800&h=600&fit=crop"
+        "images/restaurantes/guerrin/guerrin_1.jpg",
+        "images/restaurantes/guerrin/guerrin_2.webp",
+        "images/restaurantes/guerrin/guerrin_3.jpg"
       ]
     }
   ],
@@ -373,8 +435,9 @@
       "classificacao_tripadvisor": 3.5,
       "descricao": "Impressionante monumento de bronze com 20 metros de altura, simbolizando a Constituição Argentina.",
       "fotos": [
-        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop"
+        "images/esculturas/monumento_constituicion/monumento_1.jpg",
+        "images/esculturas/monumento_constituicion/monumento_2.jpg",
+        "images/esculturas/monumento_constituicion/monumento_3.jpg"
       ]
     },
     {
@@ -389,8 +452,10 @@
       "classificacao_tripadvisor": 4.3,
       "descricao": "Gigantesca escultura de flor metálica de 23 metros que se abre e fecha com o sol. Símbolo moderno da cidade.",
       "fotos": [
-        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop"
+        "images/esculturas/floralis_generica/floralis_1.webp",
+        "images/esculturas/floralis_generica/floralis_2.jpg",
+        "images/esculturas/floralis_generica/floralis_3.jpg",
+        "images/esculturas/floralis_generica/floralis_4.jpg"
       ]
     }
   ],

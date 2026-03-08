@@ -20,10 +20,20 @@ export function getLocalImageUrl(imagePath: string): string {
 }
 
 /**
- * Fallback para imagem padrão quando não há imagem disponível
+ * Fallback para imagem padrão usando Unsplash (temporário até adicionar imagens locais)
  */
 export function getFallbackImage(): string {
-  return '/images/placeholder.jpg';
+  return 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=600&fit=crop';
+}
+
+/**
+ * Verifica se uma imagem local existe (simulação - sempre retorna true por enquanto)
+ * No futuro pode implementar checagem real de arquivos
+ */
+export function imageExists(imagePath: string): boolean {
+  // Por enquanto, assumimos que imagens locais existem
+  // Futuramente pode implementar fetch HEAD ou similar
+  return !imagePath.includes('placeholder');
 }
 
 /**
