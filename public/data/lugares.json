@@ -1,0 +1,831 @@
+{
+  "parques": [
+    {
+      "nome": "Parque Centenário",
+      "endereco": "Avenida Diaz Vélez 4800, Caballito",
+      "distancia": {
+        "a_pe": 15,
+        "taxi": 8,
+        "onibus": 12
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.0,
+      "descricao": "Um dos parques mais bonitos de Buenos Aires, com lago, jardins e áreas para esportes. Ideal para piqueniques e caminhadas.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Parque Lezama",
+      "endereco": "Avenida Brasil 850, San Telmo",
+      "distancia": {
+        "a_pe": 20,
+        "taxi": 10,
+        "onibus": 15
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 3.6,
+      "descricao": "Parque histórico com vistas para o Rio da Prata. Abriga o Museu Histórico Nacional e tem um charmoso café.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1515238152791-8216bfdf89a7?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Plaza General San Martín",
+      "endereco": "Av. Santa Fe 2000, C1123 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 8,
+        "taxi": 3,
+        "onibus": 5
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Um dos parques mais históricos e elegantes da cidade. Tem barrancos gramados perfeitos para descansar, árvores centenárias e está cercado por palácios aristocráticos. Visite junto com a Basílica do Santíssimo Sacramento.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Plaza Francia e Plaza Intendente Alvear",
+      "endereco": "Av. Pres. Figueroa Alcorta 2200, C1123 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 25,
+        "taxi": 8,
+        "onibus": 12
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.3,
+      "descricao": "É o coração da Recoleta. Aos finais de semana, acontece aqui a feira de artesanato mais famosa da cidade. Ótimo lugar para ver o movimento e artistas de rua. Procure a Floralis Genérica ao lado.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Jardim Japonês",
+      "endereco": "Av. Casares 2966, C1425 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 40,
+        "taxi": 12,
+        "onibus": 20
+      },
+      "custo_medio": "ARS 5000-7000",
+      "classificacao_tripadvisor": 4.4,
+      "descricao": "Um dos maiores jardins japoneses fora do Japão. Extremamente fotogênico, com lagos de carpas, pontes vermelhas e casa de chá.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Bosques de Palermo (Parque Tres de Febrero)",
+      "endereco": "Av. del Libertador s/n, C1425 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 50,
+        "taxi": 15,
+        "onibus": 25
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.6,
+      "descricao": "É o 'Central Park' de Buenos Aires. Inclui o famoso Rosedal com milhares de rosas e um lago onde se pode alugar pedalinhos.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Reserva Ecológica Costanera Sur",
+      "endereco": "Av. Costanera Rafael Obligado s/n, C1425 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 60,
+        "taxi": 20,
+        "onibus": 35
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.2,
+      "descricao": "O maior espaço verde da cidade, na beira do Rio da Prata. Ideal para caminhadas longas na natureza ou alugar uma bicicleta.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1540206395-68808572332f?w=800&h=600&fit=crop"
+      ]
+    }
+  ],
+  "museus": [
+    {
+      "nome": "Museu Nacional de Belas Artes",
+      "endereco": "Av. del Libertador 1473, C1425 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 26,
+        "taxi": 5,
+        "onibus": 12
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.6,
+      "descricao": "Principal museu de arte da Argentina, com acervo que inclui obras de Goya, Rembrandt e artistas argentinos.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Planetário Galileo Galilei",
+      "endereco": "Av. Sarmiento s/n, C1425 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 57,
+        "taxi": 6,
+        "onibus": 18
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.0,
+      "descricao": "Planetário é um edifício construído em 1960, que funciona como um museu de ciências e tecnologia.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Museu de Arte Latinoamericano (MALBA)",
+      "endereco": "Av. Pres. Figueroa Alcorta 3415, C1425CLA Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 42,
+        "taxi": 6,
+        "onibus": 12
+      },
+      "custo_medio": "ARS 6000-9000",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Museu moderno com foco em arte latinoamericana do século XX. Abriga obras de Frida Kahlo, Botero e Diego Rivera.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Catedral Metropolitana",
+      "endereco": "San Martín 27, C1004 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 26,
+        "taxi": 9,
+        "onibus": 26
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Catedral metropolitana de Buenos Aires, e a principal igreja da cidade e uma das principais da américa latina. O papa Francisco fazia missas aqui antes de se tornar papa.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Cabildo de Buenos Aires",
+      "endereco": "Bolívar 65, C1066 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 29,
+        "taxi": 8,
+        "onibus": 16
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.0,
+      "descricao": "O Cabildo de Buenos Aires é um edifício histórico, parcialmente vestígio e parcialmente reconstituição de um antigo prédio de mesmo nome, localizado na Praça de Maio, no centro histórico da capital argentina.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Museu de Arte Decorativa",
+      "endereco": "Av. del Libertador 1902, C1425 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 22,
+        "taxi": 7,
+        "onibus": 12
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Museu com acervo de arte decorativa europeia e latinoamericana, instalado em um palácio histórico.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Museu Evita",
+      "endereco": "Lafinur 2988, C1425 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 52,
+        "taxi": 12,
+        "onibus": 20
+      },
+      "custo_medio": "ARS 5000-8000",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Museu dedicado à vida de Eva Perón, com objetos pessoais, vestidos e documentos históricos.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Fundación Proa",
+      "endereco": "Av. Don Pedro de Mendoza 1929, C1169 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 70,
+        "taxi": 18,
+        "onibus": 35
+      },
+      "custo_medio": "ARS 4000-6000",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Centro cultural dedicado à arte contemporânea latinoamericana, com exposições temporárias e acervo permanente.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Colección de Arte Amalia Lacroze de Fortabat",
+      "endereco": "Olga Cossettini 141, Puerto Madero",
+      "distancia": {
+        "a_pe": 18,
+        "taxi": 7,
+        "onibus": 12
+      },
+      "custo_medio": "ARS 4000-6000",
+      "classificacao_tripadvisor": 4.6,
+      "descricao": "Um dos museus privados mais importantes, com obras de Dalí, Rodin e grandes artistas argentinos, em um prédio de vidro incrível.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1544967882-9a6f4c7a9c3d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
+      ]
+    }
+  ],
+  "cafes_livrarias_bibliotecas": [
+    {
+      "nome": "Café Tortoni",
+      "endereco": "Avenida de Mayo 825, Microcentro",
+      "distancia": {
+        "a_pe": 25,
+        "taxi": 9,
+        "onibus": 15
+      },
+      "custo_medio": "ARS 12000-18000",
+      "classificacao_tripadvisor": 4.0,
+      "descricao": "Café mais antigo de Buenos Aires (1858), ambiente histórico com shows de tango. Imperdível experiência cultural.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "El Ateneo Grand Splendid",
+      "endereco": "Avenida Santa Fe 1860, Recoleta",
+      "distancia": {
+        "a_pe": 22,
+        "taxi": 10,
+        "onibus": 15
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Livraria considerada uma das mais bonitas do mundo, instalada em um antigo teatro. Possui café no palco.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Biblioteca Nacional Mariano Moreno",
+      "endereco": "Agüero 2502, C1425 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 31,
+        "taxi": 6,
+        "onibus": 18
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.0,
+      "descricao": "A Biblioteca Nacional da República Argentina é a biblioteca mais importante da Argentina. Atualmente está localizada no bairro de Buenos Aires chamado Recoleta, em um prédio de estilo bastante brutalista, desde 1992.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Teatro Colón",
+      "endereco": "Cerrito 628, C1010 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 8,
+        "taxi": 3,
+        "onibus": 5
+      },
+      "custo_medio": "ARS 30000-45000",
+      "classificacao_tripadvisor": 5.0,
+      "descricao": "O Teatro Colón é um teatro de operação e ópera localizado no bairro de Recoleta, em Buenos Aires, Argentina. É um dos maiores teatros de ópera do mundo.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop"
+      ]
+    }
+  ],
+  "restaurantes": [
+    {
+      "nome": "La Cabrera",
+      "endereco": "Cabrera 5097, Palermo",
+      "distancia": {
+        "a_pe": 65,
+        "taxi": 18,
+        "onibus": 25
+      },
+      "custo_medio": "ARS 45000-65000",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Famoso restaurante de carne argentina, conhecido pelos cortes premium e acompanhamentos generosos. Reserva essencial.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Pizzería Güerrín",
+      "endereco": "Avenida Corrientes 1368, Microcentro",
+      "distancia": {
+        "a_pe": 15,
+        "taxi": 7,
+        "onibus": 10
+      },
+      "custo_medio": "ARS 12000-18000",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Tradicional pizzaria portenha desde 1932. Famosa pela pizza a la piedra e ambiente autêntico.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=800&h=600&fit=crop"
+      ]
+    }
+  ],
+  "esculturas": [
+    {
+      "nome": "Monumento a la Constitución",
+      "endereco": "Plaza de la Constitución, Monserrat",
+      "distancia": {
+        "a_pe": 12,
+        "taxi": 6,
+        "onibus": 8
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 3.5,
+      "descricao": "Impressionante monumento de bronze com 20 metros de altura, simbolizando a Constituição Argentina.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Floralis Genérica",
+      "endereco": "Plaza de las Naciones Unidas, Recoleta",
+      "distancia": {
+        "a_pe": 28,
+        "taxi": 14,
+        "onibus": 20
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.3,
+      "descricao": "Gigantesca escultura de flor metálica de 23 metros que se abre e fecha com o sol. Símbolo moderno da cidade.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop"
+      ]
+    }
+  ],
+  "passeios": [
+    {
+      "nome": "Caminito",
+      "endereco": "Caminito, La Boca",
+      "distancia": {
+        "a_pe": 40,
+        "taxi": 20,
+        "onibus": 30
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.0,
+      "descricao": "Rua museu a céu aberto com casas coloradas e arte local. Berço do tango e ponto fotográfico imperdível.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Estádio La Bombonera",
+      "endereco": "Brandsen 805, La Boca",
+      "distancia": {
+        "a_pe": 80,
+        "taxi": 16,
+        "onibus": 33
+      },
+      "custo_medio": "ARS 15000+",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Estádio do Boca Juniors, conhecido por sua atmosfera vibrante e a tradição de \"La Bombonera\".",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Puerto Madero",
+      "endereco": "Puerto Madero, Buenos Aires",
+      "distancia": {
+        "a_pe": 80,
+        "taxi": 16,
+        "onibus": 33
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.4,
+      "descricao": "Porto moderno com piers, restaurantes e vista para o rio.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Cemitério de Recoleta",
+      "endereco": "Junín 1760, C1113 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 21,
+        "taxi": 7,
+        "onibus": 11
+      },
+      "custo_medio": "ARS 12000+",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Cemitério histórico com mausoléus impressionantes e túmulos de personalidades famosas como Evita Perón.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Plaza de Mayo",
+      "endereco": "Av. Hipólito Yrigoyen 300-240, Buenos Aires",
+      "distancia": {
+        "a_pe": 30,
+        "taxi": 8,
+        "onibus": 18
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.6,
+      "descricao": "É a principal praça do centro da cidade, rodeada por importantes edifícios governamentais e históricos.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Casa Rosada",
+      "endereco": "Balcarce 78, C1064AAC Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 30,
+        "taxi": 8,
+        "onibus": 21
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "É a sede do governo argentino e um dos símbolos mais importantes da cidade.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Mercado de San Telmo",
+      "endereco": "Bolívar 970, C1066AAT, C1066AAT Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 45,
+        "taxi": 12,
+        "onibus": 25
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "O Mercado de San Telmo é um mercado coberto histórico, conhecido por suas lojas de artesanato, antiguidades e restaurantes. É um dos mercados mais visitados de Buenos Aires.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Rua Defensa",
+      "endereco": "Defensa 1500, C1103 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 48,
+        "taxi": 12,
+        "onibus": 23
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.4,
+      "descricao": "A Rua Defensa é uma rua comercial que conecta a Praça de Mayo com a Avenida Corrientes. É conhecida por suas lojas de artesanato, antiguidades e produtos artesanais.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Viagem para Colonia del Sacramento",
+      "endereco": "Colonia del Sacramento, Uruguai",
+      "distancia": {
+        "a_pe": 360,
+        "taxi": 160,
+        "onibus": 130
+      },
+      "custo_medio": "USD 100-150",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Colonia del Sacramento é uma cidade histórica no Uruguai, conhecida por seu centro histórico conservado e charme europeu.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Obelisco",
+      "endereco": "Av. 9 de Julio s/n, C1073 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 15,
+        "taxi": 5,
+        "onibus": 8
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.4,
+      "descricao": "O maior símbolo da cidade fica a cerca de 15 minutos a pé seguindo pela Avenida Carlos Pellegrini.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Avenida Corrientes",
+      "endereco": "Av. Corrientes, Buenos Aires",
+      "distancia": {
+        "a_pe": 18,
+        "taxi": 6,
+        "onibus": 10
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.3,
+      "descricao": "Cruzando o Obelisco, você entra na 'rua que nunca dorme', famosa por suas livrarias abertas até tarde, teatros e pizzarias clássicas como a Guerrín.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Plaza San Martín",
+      "endereco": "Av. Santa Fe 2000, C1123 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 8,
+        "taxi": 3,
+        "onibus": 5
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Localizada a apenas 400 metros do hotel. É um dos espaços verdes mais bonitos da cidade, cercado por palácios aristocráticos como o Palacio Paz e o Palacio San Martín.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Torre Monumental",
+      "endereco": "Av. del Libertador 825, C1001 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 10,
+        "taxi": 4,
+        "onibus": 7
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.4,
+      "descricao": "Próxima à estação de trem de Retiro, oferece uma vista icônica da região. Também conhecida como Antiga Torre dos Ingleses.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Edifício Kavanagh",
+      "endereco": "Florida 1065, C1005 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 8,
+        "taxi": 3,
+        "onibus": 5
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.3,
+      "descricao": "Um marco da arquitetura Art Déco, situado em frente à Plaza San Martín.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Calle Florida",
+      "endereco": "Calle Florida, Buenos Aires",
+      "distancia": {
+        "a_pe": 12,
+        "taxi": 4,
+        "onibus": 8
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.2,
+      "descricao": "A famosa rua de pedestres começa próxima à Plaza San Martín. É ideal para compras de couro e souvenirs.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Galerías Pacífico",
+      "endereco": "Florida 737, C1005 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 15,
+        "taxi": 5,
+        "onibus": 10
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.4,
+      "descricao": "Um shopping center deslumbrante com murais artísticos no teto, localizado no cruzamento da Calle Florida com a Av. Córdoba.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Calle Arroyo",
+      "endereco": "Calle Arroyo, Buenos Aires",
+      "distancia": {
+        "a_pe": 25,
+        "taxi": 8,
+        "onibus": 15
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.3,
+      "descricao": "Conhecida como a rua mais elegante da cidade, abriga galerias de arte, boutiques e cafés charmosos.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Puente de la Mujer",
+      "endereco": "Pierina Dealessi s/n, Puerto Madero",
+      "distancia": {
+        "a_pe": 25,
+        "taxi": 10,
+        "onibus": 18
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Ícone arquitetônico de Santiago Calatrava que representa um casal dançando tango. É o cartão-postal moderno da cidade.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Fragata ARA Presidente Sarmiento",
+      "endereco": "Av. Alicia Moreau de Justo 980, Puerto Madero",
+      "distancia": {
+        "a_pe": 22,
+        "taxi": 9,
+        "onibus": 15
+      },
+      "custo_medio": "ARS 2000-3500",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Navio-museu histórico ancorado no dique. Você pode explorar o convés e as cabines preservadas de um antigo navio-escola.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "El Mercado (Faena Hotel)",
+      "endereco": "Martha Salotti 445, Puerto Madero",
+      "distancia": {
+        "a_pe": 35,
+        "taxi": 12,
+        "onibus": 22
+      },
+      "custo_medio": "ARS 50000-80000",
+      "classificacao_tripadvisor": 4.4,
+      "descricao": "Restaurante de luxo dentro do hotel mais icônico da região. Decoração surrealista e o melhor da parrilla argentina em ambiente chic.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Basílica do Santíssimo Sacramento",
+      "endereco": "San Martín 1035, C1004 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 8,
+        "taxi": 4,
+        "onibus": 6
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "A mais próxima do hotel. Estilo neoclássico luxuoso, uma das igrejas mais importantes da cidade.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Basílica de Nossa Senhora do Pilar",
+      "endereco": "Junín 1898, C1113 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 20,
+        "taxi": 6,
+        "onibus": 15
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.4,
+      "descricao": "Estilo colonial ao lado do Cemitério da Recoleta. Uma das igrejas mais antigas da cidade.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Igreja Ortodoxa Russa",
+      "endereco": "Brasil 315, C1154 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 45,
+        "taxi": 12,
+        "onibus": 25
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.3,
+      "descricao": "Famosa por suas cúpulas azuis e arquitetura moscovita. Uma das maiores comunidades russas fora da Rússia.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Campanópolis",
+      "endereco": "Bariloche 720, González Catán",
+      "distancia": {
+        "a_pe": 0,
+        "taxi": 2700,
+        "onibus": 0
+      },
+      "custo_medio": "ARS 15000",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Uma aldeia construída com materiais reciclados de demolições, seguindo um estilo europeu medieval fantástico. Ingressos devem ser comprados online antecipadamente.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Pasaje Lanín",
+      "endereco": "Calle Lanín, Barracas",
+      "distancia": {
+        "a_pe": 0,
+        "taxi": 900,
+        "onibus": 1500
+      },
+      "custo_medio": "Gratuito",
+      "classificacao_tripadvisor": 4.4,
+      "descricao": "Uma rua curta onde as casas são decoradas com mosaicos coloridos pelo artista Marino Santa María. Uma 'vila colorida' sem o tumulto do Caminito.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Tigre e Puerto de Frutos",
+      "endereco": "Tigre, Buenos Aires Province",
+      "distancia": {
+        "a_pe": 0,
+        "taxi": 0,
+        "onibus": 0
+      },
+      "custo_medio": "ARS 10000",
+      "classificacao_tripadvisor": 4.5,
+      "descricao": "Um delta de rios com casas sobre estacas e um mercado de artesanato charmoso. Lembra uma 'vila de águas'. Pegue o trem na estação Retiro.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    },
+    {
+      "nome": "Palacio Barolo",
+      "endereco": "Av. de Mayo 1370, C1085 Cdad. Autónoma de Buenos Aires",
+      "distancia": {
+        "a_pe": 15,
+        "taxi": 5,
+        "onibus": 10
+      },
+      "custo_medio": "ARS 25000",
+      "classificacao_tripadvisor": 4.6,
+      "descricao": "Um prédio inspirado na Divina Comédia de Dante Alighieri. O farol no topo oferece a melhor vista da cidade. Visitas guiadas disponíveis.",
+      "fotos": [
+        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+      ]
+    }
+  ]
+}
