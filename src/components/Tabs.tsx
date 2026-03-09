@@ -20,21 +20,26 @@ const categoryNames: { [key: string]: string } = {
 
 export default function Tabs({ categories, activeCategory, onCategoryChange }: TabProps) {
   return (
-    <div className="w-full border-b border-gray-200 mb-6">
+    <div className="w-full border-b-2 border-blue-200 mb-6 bg-white rounded-t-xl shadow-sm">
       <div className="flex overflow-x-auto scrollbar-hide">
         {categories.map((category) => (
           <button
             key={category}
             onClick={() => onCategoryChange(category)}
             className={`
-              px-4 py-3 text-sm font-medium border-b-2 transition-colors whitespace-nowrap
+              px-6 py-4 text-sm font-medium border-b-4 transition-all duration-300 whitespace-nowrap
               ${activeCategory === category
-                ? 'border-blue-500 text-blue-600'
-                : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
+                ? 'border-gradient-to-r from-blue-500 to-blue-600 text-blue-700 bg-gradient-to-b from-blue-50 to-transparent transform scale-105'
+                : 'border-transparent text-blue-500 hover:text-blue-700 hover:border-blue-200 hover:bg-blue-50/50'
               }
             `}
           >
-            {categoryNames[category] || category}
+            <span className="flex items-center gap-2">
+              {categoryNames[category] || category}
+              {activeCategory === category && (
+                <span className="w-2 h-2 bg-blue-500 rounded-full animate-pulse"></span>
+              )}
+            </span>
           </button>
         ))}
       </div>

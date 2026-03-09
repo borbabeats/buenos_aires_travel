@@ -472,8 +472,9 @@
       "classificacao_tripadvisor": 4.0,
       "descricao": "Rua museu a céu aberto com casas coloradas e arte local. Berço do tango e ponto fotográfico imperdível.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/caminito/caminito_1.webp",
+        "images/passeios/caminito/caminito_2.webp",
+        "images/passeios/caminito/caminito_3.webp"
       ]
     },
     {
@@ -488,8 +489,10 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Estádio do Boca Juniors, conhecido por sua atmosfera vibrante e a tradição de \"La Bombonera\".",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/la_bombonera/bombonera_1.webp",
+        "images/passeios/la_bombonera/bombonera_2.webp",
+        "images/passeios/la_bombonera/bombonera_3.webp",
+        "images/passeios/la_bombonera/bombonera_4.webp"
       ]
     },
     {
@@ -504,8 +507,11 @@
       "classificacao_tripadvisor": 4.4,
       "descricao": "Porto moderno com piers, restaurantes e vista para o rio.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/puerto_madero/puerto_madero_1.webp",
+        "images/passeios/puerto_madero/puerto_madero_2.webp",
+        "images/passeios/puerto_madero/puerto_madero_3.webp",
+        "images/passeios/puerto_madero/puerto_madero_4.webp",
+        "images/passeios/puerto_madero/puerto_madero_5.webp"
       ]
     },
     {
@@ -520,8 +526,7 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Cemitério histórico com mausoléus impressionantes e túmulos de personalidades famosas como Evita Perón.",
       "fotos": [
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop"
+        "images/passeios/cemiterio_recoleta/cemiterio_recoleta.webp"
       ]
     },
     {
@@ -536,8 +541,8 @@
       "classificacao_tripadvisor": 4.6,
       "descricao": "É a principal praça do centro da cidade, rodeada por importantes edifícios governamentais e históricos.",
       "fotos": [
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop"
+        "images/passeios/plaza_mayo/plaza_mayo_1.webp",
+        "images/passeios/plaza_mayo/plaza_mayo_2.webp"
       ]
     },
     {
@@ -552,8 +557,8 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "É a sede do governo argentino e um dos símbolos mais importantes da cidade.",
       "fotos": [
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop"
+        "images/passeios/casa_rosada/casa_rosada_1.webp",
+        "images/passeios/casa_rosada/casa_rosada_2.webp"
       ]
     },
     {
@@ -568,8 +573,9 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "O Mercado de San Telmo é um mercado coberto histórico, conhecido por suas lojas de artesanato, antiguidades e restaurantes. É um dos mercados mais visitados de Buenos Aires.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/mercado_san_telmo/mercado_san_telmo_1.webp",
+        "images/passeios/mercado_san_telmo/mercado_san_telmo_2.webp",
+        "images/passeios/mercado_san_telmo/mercado_san_telmo_3.webp"
       ]
     },
     {
@@ -584,8 +590,8 @@
       "classificacao_tripadvisor": 4.4,
       "descricao": "A Rua Defensa é uma rua comercial que conecta a Praça de Mayo com a Avenida Corrientes. É conhecida por suas lojas de artesanato, antiguidades e produtos artesanais.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/rua_defensa/rua_defensa_1.webp",
+        "images/passeios/rua_defensa/rua_defensa_2.webp"
       ]
     },
     {
@@ -600,8 +606,13 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Colonia del Sacramento é uma cidade histórica no Uruguai, conhecida por seu centro histórico conservado e charme europeu.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/colonia_sacramento/colonia_sacramento_1.webp",
+        "images/passeios/colonia_sacramento/colonia_sacramento_2.webp",
+        "images/passeios/colonia_sacramento/colonia_sacramento_3.webp",
+        "images/passeios/colonia_sacramento/colonia_sacramento_4.webp",
+        "images/passeios/colonia_sacramento/colonia_sacramento_5.webp",
+        "images/passeios/colonia_sacramento/colonia_sacramento_6.webp",
+        "images/passeios/colonia_sacramento/colonia_sacramento_7.webp"
       ]
     },
     {
@@ -616,8 +627,7 @@
       "classificacao_tripadvisor": 4.4,
       "descricao": "O maior símbolo da cidade fica a cerca de 15 minutos a pé seguindo pela Avenida Carlos Pellegrini.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/obelisco/obelisco_1.webp"
       ]
     },
     {
@@ -632,24 +642,9 @@
       "classificacao_tripadvisor": 4.3,
       "descricao": "Cruzando o Obelisco, você entra na 'rua que nunca dorme', famosa por suas livrarias abertas até tarde, teatros e pizzarias clássicas como a Guerrín.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
-      ]
-    },
-    {
-      "nome": "Plaza San Martín",
-      "endereco": "Av. Santa Fe 2000, C1123 Cdad. Autónoma de Buenos Aires",
-      "distancia": {
-        "a_pe": 8,
-        "taxi": 3,
-        "onibus": 5
-      },
-      "custo_medio": "Gratuito",
-      "classificacao_tripadvisor": 4.5,
-      "descricao": "Localizada a apenas 400 metros do hotel. É um dos espaços verdes mais bonitos da cidade, cercado por palácios aristocráticos como o Palacio Paz e o Palacio San Martín.",
-      "fotos": [
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop"
+        "images/passeios/avenida_corrientes/avenida_corrientes_1.webp",
+        "images/passeios/avenida_corrientes/avenida_corrientes_2.webp",
+        "images/passeios/avenida_corrientes/avenida_corrientes_3.webp"
       ]
     },
     {
@@ -664,40 +659,8 @@
       "classificacao_tripadvisor": 4.4,
       "descricao": "Próxima à estação de trem de Retiro, oferece uma vista icônica da região. Também conhecida como Antiga Torre dos Ingleses.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
-      ]
-    },
-    {
-      "nome": "Edifício Kavanagh",
-      "endereco": "Florida 1065, C1005 Cdad. Autónoma de Buenos Aires",
-      "distancia": {
-        "a_pe": 8,
-        "taxi": 3,
-        "onibus": 5
-      },
-      "custo_medio": "Gratuito",
-      "classificacao_tripadvisor": 4.3,
-      "descricao": "Um marco da arquitetura Art Déco, situado em frente à Plaza San Martín.",
-      "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
-      ]
-    },
-    {
-      "nome": "Calle Florida",
-      "endereco": "Calle Florida, Buenos Aires",
-      "distancia": {
-        "a_pe": 12,
-        "taxi": 4,
-        "onibus": 8
-      },
-      "custo_medio": "Gratuito",
-      "classificacao_tripadvisor": 4.2,
-      "descricao": "A famosa rua de pedestres começa próxima à Plaza San Martín. É ideal para compras de couro e souvenirs.",
-      "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/torre_monumental/torre_monumental_1.webp",
+        "images/passeios/torre_monumental/torre_monumental_2.webp"
       ]
     },
     {
@@ -712,24 +675,9 @@
       "classificacao_tripadvisor": 4.4,
       "descricao": "Um shopping center deslumbrante com murais artísticos no teto, localizado no cruzamento da Calle Florida com a Av. Córdoba.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
-      ]
-    },
-    {
-      "nome": "Calle Arroyo",
-      "endereco": "Calle Arroyo, Buenos Aires",
-      "distancia": {
-        "a_pe": 25,
-        "taxi": 8,
-        "onibus": 15
-      },
-      "custo_medio": "Gratuito",
-      "classificacao_tripadvisor": 4.3,
-      "descricao": "Conhecida como a rua mais elegante da cidade, abriga galerias de arte, boutiques e cafés charmosos.",
-      "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/galerias_pacifico/galerias_pacifico_1.webp",
+        "images/passeios/galerias_pacifico/galerias_pacifico_2.webp",
+        "images/passeios/galerias_pacifico/galerias_pacifico_3.webp"
       ]
     },
     {
@@ -744,8 +692,8 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Ícone arquitetônico de Santiago Calatrava que representa um casal dançando tango. É o cartão-postal moderno da cidade.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/puente_mujer/puente_mujer_1.webp",
+        "images/passeios/puente_mujer/puente_mujer_2.webp"
       ]
     },
     {
@@ -760,24 +708,8 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Navio-museu histórico ancorado no dique. Você pode explorar o convés e as cabines preservadas de um antigo navio-escola.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
-      ]
-    },
-    {
-      "nome": "El Mercado (Faena Hotel)",
-      "endereco": "Martha Salotti 445, Puerto Madero",
-      "distancia": {
-        "a_pe": 35,
-        "taxi": 12,
-        "onibus": 22
-      },
-      "custo_medio": "ARS 50000-80000",
-      "classificacao_tripadvisor": 4.4,
-      "descricao": "Restaurante de luxo dentro do hotel mais icônico da região. Decoração surrealista e o melhor da parrilla argentina em ambiente chic.",
-      "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/fragata/fragata_1.webp",
+        "images/passeios/fragata/fragata_2.webp"
       ]
     },
     {
@@ -792,8 +724,9 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "A mais próxima do hotel. Estilo neoclássico luxuoso, uma das igrejas mais importantes da cidade.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/basilica_sacramento/basilica_1.webp",
+        "images/passeios/basilica_sacramento/basilica_2.webp",
+        "images/passeios/basilica_sacramento/basilica_3.webp"
       ]
     },
     {
@@ -808,8 +741,9 @@
       "classificacao_tripadvisor": 4.4,
       "descricao": "Estilo colonial ao lado do Cemitério da Recoleta. Uma das igrejas mais antigas da cidade.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/basilica_pilar/basilica_1.webp",
+        "images/passeios/basilica_pilar/basilica_2.webp",
+        "images/passeios/basilica_pilar/basilica_3.webp"
       ]
     },
     {
@@ -824,8 +758,10 @@
       "classificacao_tripadvisor": 4.3,
       "descricao": "Famosa por suas cúpulas azuis e arquitetura moscovita. Uma das maiores comunidades russas fora da Rússia.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/igreja_russa/igreja_russa_1.webp",
+        "images/passeios/igreja_russa/igreja_russa_2.webp",
+        "images/passeios/igreja_russa/igreja_russa_3.webp",
+        "images/passeios/igreja_russa/igreja_russa_4.webp"
       ]
     },
     {
@@ -840,8 +776,11 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Uma aldeia construída com materiais reciclados de demolições, seguindo um estilo europeu medieval fantástico. Ingressos devem ser comprados online antecipadamente.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/campanopolis/campanopolis_1.webp",
+        "images/passeios/campanopolis/campanopolis_2.webp",
+        "images/passeios/campanopolis/campanopolis_3.webp",
+        "images/passeios/campanopolis/campanopolis_4.webp",
+        "images/passeios/campanopolis/campanopolis_5.webp"
       ]
     },
     {
@@ -856,8 +795,9 @@
       "classificacao_tripadvisor": 4.4,
       "descricao": "Uma rua curta onde as casas são decoradas com mosaicos coloridos pelo artista Marino Santa María. Uma 'vila colorida' sem o tumulto do Caminito.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/pasaje_lanin/pasaje_lanin_1.webp",
+        "images/passeios/pasaje_lanin/pasaje_lanin_2.webp",
+        "images/passeios/pasaje_lanin/pasaje_lanin_3.webp"
       ]
     },
     {
@@ -872,8 +812,9 @@
       "classificacao_tripadvisor": 4.5,
       "descricao": "Um delta de rios com casas sobre estacas e um mercado de artesanato charmoso. Lembra uma 'vila de águas'. Pegue o trem na estação Retiro.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/tigres/delta_tigre_1.webp",
+        "images/passeios/tigres/delta_tigre_2.webp",
+        "images/passeios/tigres/delta_tigre_3.webp"
       ]
     },
     {
@@ -888,8 +829,11 @@
       "classificacao_tripadvisor": 4.6,
       "descricao": "Um prédio inspirado na Divina Comédia de Dante Alighieri. O farol no topo oferece a melhor vista da cidade. Visitas guiadas disponíveis.",
       "fotos": [
-        "https://images.unsplash.com/photo-1516483632295-33f9b0097165?w=800&h=600&fit=crop",
-        "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=800&h=600&fit=crop"
+        "images/passeios/palacio_barolo/barolo_1.webp",
+        "images/passeios/palacio_barolo/barolo_2.webp",
+        "images/passeios/palacio_barolo/barolo_3.webp",
+        "images/passeios/palacio_barolo/barolo_4.webp",
+        "images/passeios/palacio_barolo/barolo_5.webp"
       ]
     }
   ]

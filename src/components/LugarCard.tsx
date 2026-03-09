@@ -13,6 +13,7 @@ interface LugarCardProps {
 
 export default function LugarCard({ lugar, isFavorited, onToggleFavorite }: LugarCardProps) {
   const [showCarousel, setShowCarousel] = useState(false);
+  const [isExpanded, setIsExpanded] = useState(false);
 
   // Usa a primeira imagem disponível ou fallback
   const mainImageUrl = lugar.fotos && lugar.fotos.length > 0 && isValidImageUrl(lugar.fotos[0])
@@ -49,71 +50,62 @@ export default function LugarCard({ lugar, isFavorited, onToggleFavorite }: Luga
 
   return (
     <>
-      <div className="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden">
-        <div 
-          className="relative h-48 cursor-pointer"
+      <div className="relative h-[500px] shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden cursor-pointer">
+        <Image
+          src={mainImageUrl}
+          alt={lugar.nome}
+          fill
+          className="object-cover"
           onClick={() => setShowCarousel(true)}
+        />
+        <button
+          onClick={handleFavoriteClick}
+          className="absolute top-2 left-2 p-2 rounded-full bg-white bg-opacity-80 hover:bg-opacity-100 transition-all duration-200 shadow-md"
+          aria-label={isFavorited ? 'Remover dos favoritos' : 'Adicionar aos favoritos'}
         >
-          <Image
-            src={mainImageUrl}
-            alt={lugar.nome}
-            fill
-            className="object-cover"
-          />
-          {carouselImages.length > 1 && (
-            <div className="absolute top-2 right-2 bg-black bg-opacity-50 text-white px-2 py-1 rounded text-sm">
-              +{carouselImages.length - 1} fotos
-            </div>
-          )}
-          <button
-            onClick={handleFavoriteClick}
-            className="absolute top-2 left-2 p-2 rounded-full bg-white bg-opacity-80 hover:bg-opacity-100 transition-all duration-200 shadow-md"
-            aria-label={isFavorited ? 'Remover dos favoritos' : 'Adicionar aos favoritos'}
-          >
-            <span className={`text-2xl ${isFavorited ? 'text-red-500' : 'text-gray-400'}`}>
-              {isFavorited ? '❤️' : '🤍'}
-            </span>
-          </button>
+          <span className={`text-2xl ${isFavorited ? 'text-red-500' : 'text-gray-400'}`}>
+            {isFavorited ? '❤️' : '🤍'}
+          </span>
+        </button>
+        
+        <div className="absolute top-2 right-2 bg-black bg-opacity-50 text-white px-2 py-1 rounded text-sm">
+          <div className="flex items-center gap-1">
+            {renderStars(lugar.classificacao_tripadvisor)}
+            <span className="text-xs">({lugar.classificacao_tripadvisor})</span>
+          </div>
         </div>
         
-        <div className="p-4">
-          <h3 className="text-xl font-semibold text-gray-800 mb-2">{lugar.nome}</h3>
+        <div 
+          className={`absolute bottom-0 left-0 right-0 transition-all duration-300 ${isExpanded ? 'bg-gradient-to-t from-black via-black/80 to-transparent' : 'bg-gradient-to-t from-black via-black/70 to-transparent'} p-4`}
+        >
+          <h3 
+            className="text-xl font-semibold text-white mb-2 cursor-pointer hover:text-gray-200 transition-colors flex items-center gap-2"
+            onClick={(e) => {
+              e.stopPropagation();
+              setIsExpanded(!isExpanded);
+            }}
+          >
+            {lugar.nome}
+            <span className={`text-sm transition-transform duration-300 ${isExpanded ? 'rotate-180' : ''}`}>
+              ▼
+            </span>
+          </h3>
           
-          <div className="flex items-center gap-2 mb-2">
-            <div className="flex">
-              {renderStars(lugar.classificacao_tripadvisor)}
-            </div>
-            <span className="text-sm text-gray-600">({lugar.classificacao_tripadvisor})</span>
-          </div>
-
-          <p className="text-gray-600 text-sm mb-3">{lugar.descricao}</p>
-          
-          <div className="space-y-2 text-sm">
-            <div className="flex items-center gap-2">
-              <span className="font-medium text-gray-700">📍</span>
-              <span className="text-gray-600">{lugar.endereco}</span>
-            </div>
-            
-            <div className="flex items-center gap-2">
-              <span className="font-medium text-gray-700">💰</span>
-              <span className="text-gray-600">{lugar.custo_medio}</span>
-            </div>
-            
-            <div className="space-y-1">
+          {isExpanded && (
+            <div className="mt-3 space-y-2 text-sm text-white animate-in slide-in-from-top duration-300">
+              <p className="text-white/90">{lugar.descricao}</p>
+              
               <div className="flex items-center gap-2">
-                <span className="font-medium text-gray-700">🚶</span>
-                <span className="text-gray-600">{lugar.distancia.a_pe} min a pé</span>
+                <span className="font-medium">💰</span>
+                <span className="text-white/90">{lugar.custo_medio}</span>
               </div>
+              
               <div className="flex items-center gap-2">
-                <span className="font-medium text-gray-700">🚕</span>
-                <span className="text-gray-600">{lugar.distancia.taxi} min de taxi</span>
-              </div>
-              <div className="flex items-center gap-2">
-                <span className="font-medium text-gray-700">🚌</span>
-                <span className="text-gray-600">{lugar.distancia.onibus} min de ônibus</span>
+                <span className="font-medium">🚕</span>
+                <span className="text-white/90">{lugar.distancia.taxi} min de taxi</span>
               </div>
             </div>
-          </div>
+          )}
         </div>
       </div>
 
