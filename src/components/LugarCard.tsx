@@ -50,7 +50,7 @@ export default function LugarCard({ lugar, isFavorited, onToggleFavorite }: Luga
 
   return (
     <>
-      <div className="relative h-[500px] shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden cursor-pointer">
+      <div className="relative h-[500px] md:h-[400px] lg:h-[500px] landscape:h-[300px] shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden cursor-pointer">
         <Image
           src={mainImageUrl}
           alt={lugar.nome}
